@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/r3f-overwatch-lootbox/static/css/main.18121ab3.css",
+    "main.js": "/r3f-overwatch-lootbox/static/js/main.70613a6d.js",
+    "static/js/787.69af495b.chunk.js": "/r3f-overwatch-lootbox/static/js/787.69af495b.chunk.js",
+    "index.html": "/r3f-overwatch-lootbox/index.html",
+    "main.18121ab3.css.map": "/r3f-overwatch-lootbox/static/css/main.18121ab3.css.map",
+    "main.70613a6d.js.map": "/r3f-overwatch-lootbox/static/js/main.70613a6d.js.map",
+    "787.69af495b.chunk.js.map": "/r3f-overwatch-lootbox/static/js/787.69af495b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18121ab3.css",
+    "static/js/main.70613a6d.js"
+  ]
+}
