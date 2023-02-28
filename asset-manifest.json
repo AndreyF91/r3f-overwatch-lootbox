@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/r3f-overwatch-lootbox/static/css/main.17723cd5.css",
-    "main.js": "/r3f-overwatch-lootbox/static/js/main.ef22705b.js",
+    "main.js": "/r3f-overwatch-lootbox/static/js/main.5e21226c.js",
     "static/js/787.69af495b.chunk.js": "/r3f-overwatch-lootbox/static/js/787.69af495b.chunk.js",
     "static/media/ambient.mp3": "/r3f-overwatch-lootbox/static/media/ambient.6f4378685302b2710b6b.mp3",
-    "static/media/lootbox1.glb": "/r3f-overwatch-lootbox/static/media/lootbox1.a26b8db7cb3302e70533.glb",
+    "static/media/lootbox1.glb": "/r3f-overwatch-lootbox/static/media/lootbox1.5aa2be7e7b3e7b9af672.glb",
     "static/media/lootBox.m4a": "/r3f-overwatch-lootbox/static/media/lootBox.74b011badefc4693b7db.m4a",
     "static/media/overwatch-logo.png": "/r3f-overwatch-lootbox/static/media/overwatch-logo.7dcd2dce543b6b57b4a7.png",
     "index.html": "/r3f-overwatch-lootbox/index.html",
     "main.17723cd5.css.map": "/r3f-overwatch-lootbox/static/css/main.17723cd5.css.map",
-    "main.ef22705b.js.map": "/r3f-overwatch-lootbox/static/js/main.ef22705b.js.map",
+    "main.5e21226c.js.map": "/r3f-overwatch-lootbox/static/js/main.5e21226c.js.map",
     "787.69af495b.chunk.js.map": "/r3f-overwatch-lootbox/static/js/787.69af495b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17723cd5.css",
-    "static/js/main.ef22705b.js"
+    "static/js/main.5e21226c.js"
   ]
 }
